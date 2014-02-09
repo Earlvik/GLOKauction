@@ -16,6 +16,7 @@
     <ClInclude Include="Date.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Advertisement.cpp" />
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="clientTest.cpp" />
     <ClCompile Include="testdate.cpp" />
